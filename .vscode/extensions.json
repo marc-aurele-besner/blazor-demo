@@ -1,3 +1,7 @@
 {
-  "recommendations": ["ms-dotnettools.csharp"]
+  "recommendations": [
+    "ms-dotnettools.csharp",
+    "adrianwilczynski.blazor-snippet-pack",
+    "ScottSauber.blazorsnippets"
+  ]
 }
